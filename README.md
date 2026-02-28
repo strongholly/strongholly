@@ -128,11 +128,8 @@
 
 ## 📫 Connect with Me
 
-<p align="left">
-  <a href="https://github.com/strongholly" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/strongholly" target="blank">
+
+  <a href="https://linkedin.com/in/strongholly](https://tr.linkedin.com/in/semih-şahin-b43420286?trk=people-guest_people_search-card)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>

@@ -23,7 +23,7 @@
 
 - 🔭 Currently working on **Mobile & Full Stack Development**
 - 🌱 Learning **Data Engineering & Machine Learning**
-- 💬 Ask me about **React Native, Flutter, Kotlin, Node.js**
+- 💬 Ask me about **React Native**
 - ⚡ Fun fact: I love turning data into insights!
 
 ---

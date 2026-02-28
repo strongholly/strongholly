@@ -41,12 +41,7 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-    <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Ber52cqmI/AAAAAAAAPmU/BOp9R9FkOYg8b0JYXz0MBcRvIl7lf8VhACLcBGAsYHQ/s1600/jetpack_compose-icon.svg" alt="jetpack compose" width="40" height="40"/>
-  </a>
+
 </p>
 
 ### Backend Development

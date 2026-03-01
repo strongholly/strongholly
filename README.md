@@ -129,7 +129,7 @@
 ## 📫 Connect with Me
 
 
-  <a href="https://tr.linkedin.com/in/semih-şahin-b43420286">
+  <a href="www.linkedin.com/in/semih-sahin-b43420286">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
